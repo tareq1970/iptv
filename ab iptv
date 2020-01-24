@@ -1,0 +1,985 @@
+#EXTM3U
+#EXTINF:-1,FE FAC
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,UROSPORT
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:-1,SetantaSportPlus
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS"
+http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
+#EXTINF:-1 ,MBC 
+http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC 
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1 ,MBC 
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 ,MBC 
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 ,MBC 
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1 group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1 group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
+#EXTINF:-1 ,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1 ,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1 ,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 ,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
+#EXTINF:-1 ,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1 ,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 ,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
+#EXTINF:-1 ,MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
+#EXTINF:-1 group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8
+#EXTINF:-1 group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 group-title="Movies",MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
+#EXTINF:-1 group-title="Movies",MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:-1 group-title="Movies",MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Movies",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
+#EXTINF:-1 ,MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 ,MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 ,MBC Masr 1
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
+#EXTINF:-1,MBC-ACTION
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1,mbc1
+http://livecdnh2.tvanywhere.ae:80/hls/mbc1/04.m3u8
+#EXTINF:-1,mbc2
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/02.m3u8
+#EXTINF:-1,mbc3
+http://livecdnh2.tvanywhere.ae:80/hls/mbc3/02.
+#EXTINF:-1,mbc4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/02.m3u8
+#EXTINF:-1,mbc_drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/02.m3u8
+#EXTINF:-1,mbcmax
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/02.m3u8
+#EXTINF:-1,mbc_msr
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
+#EXTINF:-1,mbc_bolly
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/02.m3u8
+#EXTINF:-1,wanasah
+http://livecdnh2.tvanywhere.ae:80/hls/wanasah/02.m3u8
+#EXTINF:-1,mbc4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/04.m3u8
+#EXTINF:-1,MBC-P-VARity
+http://95.170.215.118:80/hls/MBC-P-VARity-FF.m3u8
+#EXTINF:-1,MBC-DRAMA-SS
+http://95.170.215.118:80/hls/m3u8/MBC-DRAMA-SS.m3u8
+#EXTINF:-1,MBC-IRAQ
+http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1,mbc_drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/04.m3u8
+#EXTINF:-1,MBC-ACTION
+http://95.170.215.118:80/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1,mbc_msr
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/04.m3u8
+#EXTINF:-1,/wanasah HD
+http://livecdnh2.tvanywhere.ae:80/hls/wanasah/04.m3u8
+#EXTINF:-1,mbc2 HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/04.m3u
+#EXTINF:-1,smil
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/index.m3u8
+#EXTINF:-1,alarabiya
+http://livecdnh3.tvanywhere.ae:80/ss/alarabiya.isml/Manifest
+#EXTINF:-1,Hadath
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1,MBN
+http://mbnhls-lh.akamaihd.net:80/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,Iraqia-N
+http://95.170.215.101:80/hls/m3u8/Iraqia-N-Backup.m3u8
+#EXTINF:-1,anb NWS
+http://95.170.215.107:80/hls/anb-M.m3u8
+#EXTINF:-1,Arabica Music
+http://95.170.215.109:80/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1,rotmusic
+http://livecdnh3.tvanywhere.ae:80/hls/rotmusic/04.m3u8
+#EXTINF:-1,rotclip
+http://livecdnh3.tvanywhere.ae:80/hls/rotclip/04.m3u8
+#EXTINF:-1,Publitools
+http://95.170.215.107:80/hls/m3u8/Publitools.m3u8
+#EXTINF:-1,Mazzika
+http://95.170.215.109:80/hls/m3u8/Mazzika-Backup.m3u8
+#EXTINF:-1,M-Alremas
+http://95.170.215.109:80/hls/m3u8/M-Alremas-Backup.m3u8
+#EXTINF:-1,M-alhanen
+http://95.170.215.109:80/hls/M-alhanen-Backup-M.m3u8
+#EXTINF:-1,CompanyTV
+http://wma10.fluidstream.net:80/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1,tvm3
+http://84.16.66.103:1935/livecast/tvm3/chunklist_w390924281.m3u8
+#EXTINF:-1,m2oTv
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,utvlive
+http://81.196.0.126:80/utvedge/utvlive/chunklist_w1063360583.m3u8
+#EXTINF:-1,CompanyTV
+http://wma10.fluidstream.net:80/CompanyTV/_definst_/mp4:livestream_720p/chunklist_w342814350.m3u8
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 group-title="Movies",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1 group-title="Movies",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Akudji
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR Hollywood Movies 7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 11
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 12
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 15
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 2
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 4
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 6
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR MOVIE 7
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR Movie 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",AYSAR Movie 9
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 group-title="Movies",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="Movies",Cinefil GR
+http://bit.ly/2Dn2Yty
+#EXTINF:-1 group-title="Movies",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
+#EXTINF:-1 group-title="Movies",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1 group-title="Movies",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1 group-title="Movies",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:-1 group-title="Movies",Cinema TV
+https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Classics Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Classics Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Comedy Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Movies",GEM Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Groovy
+http://bit.ly/2p6JqSo
+#EXTINF:-1 group-title="Movies",Hathway Cine Channel
+https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBTV TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1CBC-Sofra
+http://95.170.215.109:80/hls/m3u8/CBC-Sofra-Backup.m3u8
+#EXTINF:-1akamaized
+http://citrusstv.akamaized.net:80/hls/live/687285/CTV/01.m3u8
+#EXTINF:-1SamiraTV
+http://95.170.215.109:80/hls/SamiraTV-Backup-M.m3u8
+#EXTINF:-1Pano-Food
+http://95.170.215.107:80/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:-1quran
+http://livecdnh2.tvanywhere.ae:80/ss/quran.isml/Manifest
+#EXTINF:-1sunnah
+http://livecdnh2.tvanywhere.ae:80/ss/sunnah.isml/Manifest
+#EXTINF:-1noordubaitv
+http://dmiffthvll.cdn.mangomolo.com:80/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+#EXTINF:-1mangomolo
+http://iqraac.cdn.mangomolo.com:80/iqraa/smil:iqraar1.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8
+#EXTINF:-1tvanywhere
+http://livecdnh3.tvanywhere.ae:80/ss/majd.isml/Manifest
+#EXTINF:-1alistiqama
+http://jmc-live.ercdn.net:80/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
+#EXTINF:-1daawahtv
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
+#EXTINF:-1alanis
+http://alanis.live.net.sa:1935/live/alanis/chunklist.m3u8
+#EXTINF:-1resalah
+http://livecdnh3.tvanywhere.ae:80/ss/resalah.isml/Manifest
+#EXTINF:-1mbc3
+http://livecdnh2.tvanywhere.ae:80/hls/mbc3/04.m3u8
+#EXTINF:-1TOYOR
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF:-1jeem
+http://95.170.215.120:80/hls/m3u8/jeem.m3u8
+#EXTINF:-1Disney-Channel
+http://95.170.215.118:80/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1Disney-Channe2
+http://95.170.215.118:80/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1CNArabica
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1Gulli-Bil-Arabie
+http://95.170.215.118:80/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
+#EXTINF:-1Majid
+http://95.170.215.109:80/hls/m3u8/Majid-Backup.m3u8
+#EXTINF:-1TAHA
+http://95.170.215.109:80/hls/m3u8/TAHA-Backup.m3u8
+#EXTINF:-1spacetoon
+http://livecdnh2.tvanywhere.ae:80/ss/spacetoon.isml/Manifest
+#EXTINF:-1Boomerang
+http://95.170.215.118:80/hls/m3u8/Boomerang.m3u8
+#EXTINF:-1Karameesh
+http://95.170.215.109:80/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF:-1SAT-7
+http://95.170.215.109:80/hls/m3u8/SAT-7-Backup.m3u8
+#EXTINF:-1baby
+http://livecdnh1.tvanywhere.ae:80/ss/baby.isml/Manifest
+#EXTINF:-1koogi
+http://68.235.60.118:1935/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1huya
+http://aldirect.hls.huya.com:80/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1huya
+http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1PLTV
+http://161.0.157.9:80/PLTV/88888888/224/3221226834/03.m3u8
+#EXTINF:-1HBO -1
+http://95.170.215.118:80/hls/m3u8/HBO.m3u8
+#EXTINF:-1HBO-2
+http://95.170.215.118:80/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1/HBO-3
+http://95.170.215.118:80/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1zqlive
+http://dlhls.cdn.zhanqi.tv:80/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1akamaihd
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1dgrau
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1v1a1
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:-1SetantaSportPlus
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1geo
+http://livecdnh2.tvanywhere.ae:80/ss/nat_geo_auh.isml/Manifest
+#EXTINF:-1nat_geo
+http://livecdnh1.tvanywhere.ae:80/ss/nat_geo.isml/Manifest
+#EXTINF:-1isml
+http://livecdnh1.tvanywhere.ae:80/ss/nat_geo_wild.isml/Manifest
+#EXTINF:-1people
+http://livecdnh1.tvanywhere.ae:80/ss/nat_geo_people.isml/Manifest
+#EXTINF:-1omantv04
+http://38.96.148.35:1935/live/omantv04/chunklist_w1649130586.m3u8
+#EXTINF:-1Discovery
+http://95.170.215.118:80/hls/m3u8/Discovery-Channe.m3u8
+#EXTINF:-1Discovery-Showca
+http://95.170.215.118:80/hls/m3u8/Discovery-Showca.m3u8
+#EXTINF:-1Fishing
+http://95.170.215.118:80/hls/m3u8/Fishing-And-Hunt.m3u8
+#EXTINF:-1SEdu
+http://82.137.248.16:1935/SEdu/stream13102019/chunklist.m3u8
+#EXTINF:-1
+http://livecdnh2.tvanywhere.ae:80/ss/nat_geo_auh.isml/Manifest
+#EXTINF:kahera
+http://livecdnh2.tvanywhere.ae:80/ss/kahera_nas.isml/Manifest
+#EXTINF:-1hayat
+http://livecdnh2.tvanywhere.ae:80/ss/hayat.isml/Manifest
+#EXTINF:-1Alhayat
+http://95.170.215.107:80/hls/Alhayat-M-Backup.m3u8
+#EXTINF:-1dmcdrama
+http://livecdnh1.tvanywhere.ae:80/ss/dmcdrama.isml/Manifest
+#EXTINF:-1CairoCine
+http://95.170.215.109:80/hls/m3u8/CairoCine-Backup.m3u8
+#EXTINF:-1Cairo-Dra
+http://95.170.215.109:80/hls/m3u8/Cairo-Dra-Backup.m3u8
+#EXTINF:-1CBC
+http://95.170.215.109:80/hls/m3u8/CBC-Backup.m3u8
+#EXTINF:-1CBC-Sofr
+http://95.170.215.109:80/hls/m3u8/CBC-Sofra-Backup.m3u8
+#EXTINF:-1Pan-Drama
+http://95.170.215.109:80/hls/m3u8/Pan-Drama-Backup.m3u8
+#EXTINF:-1Panorama2
+http://95.170.215.109:80/hls/m3u8/Panorama2-Backup.m3u8
+#EXTINF:-1Pano-Food
+http://95.170.215.107:80/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:-1/AlSumaria
+http://95.170.215.109/hls/m3u8/AlSumaria-Backup.m3u8
+#EXTINF:-1Hadath
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1Dijla-TV
+http://95.170.215.109/hls/Dijla-TV-Backup-M.m3u8
+#EXTINF:-1Al-Ahd
+http://95.170.215.109/hls/m3u8/Al-Ahd-Backup.m3u8
+#EXTINF:-1AlFalloja
+http://95.170.215.109/hls/AlFalloja-Backup-M.m3u8
+#EXTINF:-1SamarraTV
+http://95.170.215.109/hls/SamarraTV-Backup-M.m3u8
+#EXTINF:-1HonaBagh
+http://95.170.215.109:80/hls/m3u8/HonaBagh-Backup.m3u8
+#EXTINF:-1M-alhanen
+http://95.170.215.109:80/hls/m3u8/M-alhanen-Backup.m3u8
+#EXTINF:-1M-Alremas
+http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
+#EXTINF:-1ISHTAR
+http://95.170.215.106:80/hls/m3u8/ISHTAR-Backup.m3u8
+#EXTINF:-1AlRafiden
+http://95.170.215.109:80/hls/m3u8/AlRafiden-Backup.m3u8
+#EXTINF:-1ASIA-TV
+http://95.170.215.109:80/hls/m3u8/ASIA-TV-Backup.m3u8
+#EXTINF:-1Iraqia
+http://95.170.215.107:80/hls/m3u8/Iraqia-Backup.m3u8
+#EXTINF:-1IraqiaSp
+http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:-1IraqiaNew
+http://95.170.215.109:80/hls/m3u8/IraqiaNew-Backup.m3u8
+#EXTINF:-1 group-title="Music",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music",1BM
+https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Music",30A Music
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Music",A2i TV Musique
+http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8
+#EXTINF:-1 group-title="Music",Afrobit
+http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8
+#EXTINF:-1 group-title="Music",AlbMUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="Music",Baraza TV HD Greek
+https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
+#EXTINF:-1 group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 group-title="Music",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="Music",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 group-title="Music",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Music",Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",Credo TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Music",D Music
+https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Music",DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Music",DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 group-title="Music",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="Music",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 group-title="Music",DJing
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 group-title="Music",DJing Animation
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 group-title="Music",DJing Avicii
+http://www.djing.com/tv/session_avicii.m3u8
+#EXTINF:-1 group-title="Music",DJing Classic
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 group-title="Music",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="Music",DJing Dance Floor
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 group-title="Music",DJing Electro rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 group-title="Music",DJing French touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 group-title="Music",DJing Hedonist
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 group-title="Music",DJing Hits
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 group-title="Music",DJing Hot Hot Hot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 group-title="Music",DJing Hot Hot Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1 group-title="Music",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 group-title="Music",DJing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 group-title="Music",DJing Underground
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 group-title="Music",DJing Wild EDM
+http://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF:-1 group-title="Music",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="Music",EUROAL
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-1 group-title="Music",Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
+#EXTINF:-1 group-title="Music",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 group-title="Music",Gigant FM
+http://streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8
+#EXTINF:-1 group-title="Iraq CHANNELS",#EXTINF:-1 " group-title="Iraq CHANNELS"
+http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="AlSumaria"
+http://95.170.215.109/hls/m3u8/AlSumaria-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="Hadath"
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="Dijla-TV"
+http://95.170.215.109/hls/Dijla-TV-Backup-M.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="Al-Ahd"
+http://95.170.215.109/hls/m3u8/Al-Ahd-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="AlFalloja"
+http://95.170.215.109/hls/AlFalloja-Backup-M.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="SamarraTV"
+http://95.170.215.109/hls/SamarraTV-Backup-M.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="HonaBagh"
+http://95.170.215.109:80/hls/m3u8/HonaBagh-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="M-Alremas"
+http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="ISHTAR"
+http://95.170.215.106:80/hls/m3u8/ISHTAR-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="AlRafiden"
+http://95.170.215.109:80/hls/m3u8/AlRafiden-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="ASIA-TV"
+http://95.170.215.109:80/hls/m3u8/ASIA-TV-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="Iraqia"
+http://95.170.215.107:80/hls/m3u8/Iraqia-Backup.m3u8
+#EXTINF:-1 ,#EXTINF:-1 tvg-ID="" tvg-name="IraqiaSp"
+http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:-1 group-title="News",Al Hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="General",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="General",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 group-title="General",Al Fady
+http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
+#EXTINF:-1 group-title="News",Al Hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="News",Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF:-1 ,Al Mayadeen TV
+http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
+#EXTINF:-1 group-title="General",Al Rafidain
+http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 group-title="General",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1 group-title="General",Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 group-title="General",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="General",Al-Masar Al-Oula
+http://212.18.231.213:1935/almasar/_definst_/almasar_source/playlist.m3u8
+#EXTINF:-1 group-title="General",AshurSat
+https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",Assyrian ANB
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
+#EXTINF:-1 ,AVA TV
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 group-title="General",Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8
+#EXTINF:-1 ,Dijlah
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 group-title="General",Dijlah
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Dua Channel
+http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w609791274.m3u8
+#EXTINF:-1 group-title="قنوات لبنان",
+http://livecdnh3.tvanywhere.ae:80/ss/jadeed.isml/Manifest
+#EXTINF:-1 ,MTVLbnHD
+http://livecdnh3.tvanywhere.ae:80/ss/MTVLbnHD.ism/Manifest
+#EXTINF:-1,LDC
+http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:-1,lbc2
+http://livecdnh2.tvanywhere.ae:80/ss/lbc_int.isml/Manifest
+#EXTINF:-1,leb3
+http://livecdnh2.tvanywhere.ae:80/ss/otv_leb.isml/Manifest
+#EXTINF:-1,nbn
+http://livecdnh1.tvanywhere.ae:80/ss/nbn.isml/Manifest
+#EXTINF:-1,Arabica
+http://95.170.215.109:80/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1
+http://livecdnh2.tvanywhere.ae:80/ss/future.isml/Manifest
+#EXTINF:-1future
+http://livecdnh3.tvanywhere.ae:80/ss/hawacom.isml/Manifest
+#EXTINF:-1lbc_int
+http://livecdnh2.tvanywhere.ae:80/ss/lbc_int.isml/Manifest
+#EXTINF:-1 group-title="قنوات سوريا",
+http://livecdnh2.tvanywhere.ae:80/ss/syria_drama.isml/Manifest
+#EXTINF:-1Nour
+http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8
+#EXTINF:-1Snews
+http://82.137.248.16:1935/Snews/stream31122019/chunklist.m3u8
+#EXTINF:-1SAMA-TV
+http://95.170.215.109:80/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1tootvs
+http://streaming.tootvs.com:1935/8010/8010/chunklist.m3u8
+#EXTINF:-1Publitools
+http://95.170.215.107:80/hls/m3u8/Publitools.m3u8
+#EXTINF:-1melodyfm
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:-1,TR:Bein Sport1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/132.ts
+#EXTINF:-1,TR: Bein Sport 3
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/134.ts
+#EXTINF:-1,Bein Sport News HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/1.ts
+#EXTINF:-1,Bein Sport HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/2.ts
+#EXTINF:-1,Bein Sport 9 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/21.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/11.ts
+EXTINF:-1,Bein Sport 8 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/20.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/10.ts
+#EXTINF:-1,Bein Sport 7 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/19.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/9.ts
+#EXTINF:-1,Bein Sport 6 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/18.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/8.ts
+#EXTINF:-1,Bein Sport 5 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/17.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/7.ts
+#EXTINF:-1,Bein Sport 4 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/16.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/6.ts
+#EXTINF:-1,Bein Sport 3 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/15.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/5.ts
+#EXTINF:-1,Bein Sport 2 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/14.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/4.ts
+#EXTINF:-1,Bein Sport 10 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/22.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/12.ts
+#EXTINF:-1,Bein Sport 1 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/13.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/3.ts
+#EXTINF:-1,OSN Al Safwa
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/137.ts
+#EXTINF:-1,Watan
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/76.ts
+#EXTINF:-1,Tom & Jerry
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/37.ts
+#EXTINF:-1,TokTok Aflam
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/96.ts
+#EXTINF:-1,TL Lebanon
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/117.ts
+#EXTINF:-1,Syria Tv
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/106.ts
+#EXTINF:-1,Syria News
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/100.ts
+#EXTINF:-1,Syria
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/97.ts
+#EXTINF:-1,Sama Syria
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/104.ts
+#EXTINF:-1,Panorama Drama 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/84.ts
+#EXTINF:-1,Panorama Drama
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/83.ts
+#EXTINF:-1,OSN Yahala Cinema
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/56.ts
+#EXTINF:-1,OSN Yahala Aloula
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/55.ts
+#EXTINF:-1,OSN Yahala
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/54.ts
+#EXTINF:-1,OSN WWE
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/66.ts
+#EXTINF:-1,OSN Star World
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/64.ts
+#EXTINF:-1,OSN Star Movies
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/63.ts
+#EXTINF:-1,OSN Music Now
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/61.ts
+#EXTINF:-1,OSN Musalsalat
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/57.ts
+#EXTINF:-1,OSN Movies First
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/50.ts
+#EXTINF:-1,OSN Movies
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/51.ts
+#EXTINF:-1,OSN Docu Box
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/67.ts
+#EXTINF:-1,OSN Comedy
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/59.ts
+#EXTINF:-1,OSN Cinema 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/53.ts
+#EXTINF:-1,OSN Cinema 1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/52.ts
+#EXTINF:-1,OSN Animal Planet
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/62.ts
+#EXTINF:-1,OSN AL Yawm
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/58.ts
+#EXTINF:-1,OSN Action
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/60.ts
+#EXTINF:-1,OSN  Kids
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/65.ts
+#EXTINF:-1,ON Sport
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/87.ts
+#EXTINF:-1,On E
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/85.ts
+#EXTINF:-1,ON Drama
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/86.ts
+#EXTINF:-1,Nile Sport
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/94.ts
+#EXTINF:-1,Nile News
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/95.ts
+#EXTINF:-1,Nile Life
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/93.ts
+#EXTINF:-1,Nile Family
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/92.ts
+#EXTINF:-1,Nile Drama
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/88.ts
+#EXTINF:-1,Nile Culture
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/91.ts
+#EXTINF:-1,Nile Comedy
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/90.ts
+#EXTINF:-1,Nile Cinema
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/89.ts
+#EXTINF:-1,Mekameleen Tv
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/82.ts
+#EXTINF:-1,mbc 5
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/131.ts
+#EXTINF:-1,Mazika
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/68.ts
+#EXTINF:-1,mara7 SR
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/110.ts
+#EXTINF:-1,Majed
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/48.ts
+#EXTINF:-1,LDC
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/114.ts
+#EXTINF:-1,LBC 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/113.ts
+#EXTINF:-1,Lana Plus
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/103.ts
+#EXTINF:-1,Lana
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/102.ts
+#EXTINF:-1,Karamish
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/44.ts
+#EXTINF:-1,Hawacom
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/124.ts
+#EXTINF:-1,Halab Today
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/105.ts
+#EXTINF:-1,Future Tv
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/116.ts
+#EXTINF:-1,Fox Rewayat
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/125.ts
+#EXTINF:-1,Fox Life
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/126.ts
+#EXTINF:-1,Fox Fire Movies
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/128.ts
+#EXTINF:-1,Fox Family Movies
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/129.ts
+#EXTINF:-1,Fox Crime
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/127.ts
+#EXTINF:-1,Fox Action Movies
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/130.ts
+#EXTINF:-1,DMC Live
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/74.ts
+#EXTINF:-1,DMC Drama
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/73.ts
+#EXTINF:-1,Disney
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/47.ts
+#EXTINF:-1,CN Arabic
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/41.ts
+#EXTINF:-1,CBC Sofra
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/72.ts
+#EXTINF:-1,CBC Extra
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/71.ts
+#EXTINF:-1,CBC Drama
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/70.ts
+#EXTINF:-1,CBC
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/69.ts
+#EXTINF:-1,Boomerang AR
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/46.ts
+#EXTINF:-1,Bein Series 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/33.ts
+#EXTINF:-1,Bein Series 1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/32.ts
+#EXTINF:-1,Bein Movies 4
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/31.ts
+#EXTINF:-1,Bein Movies 3
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/30.ts
+#EXTINF:-1,Bein Movies 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/29.ts
+#EXTINF:-1,Bein Movies 1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/28.ts
+#EXTINF:-1,Bein Gourmet
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/36.ts
+#EXTINF:-1,Bein Fatafeat
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/35.ts
+#EXTINF:-1,Bein Drama 1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/34.ts
+#EXTINF:-1,Baraem
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/42.ts
+#EXTINF:-1,Baby Tv
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/45.ts
+#EXTINF:-1,art hekayat 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/26.ts
+#EXTINF:-1,art hekayat 1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/25.ts
+#EXTINF:-1,art cinema
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/27.ts
+#EXTINF:-1,art aflam 2
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/24.ts
+#EXTINF:-1,art aflam 1
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/23.ts
+#EXTINF:-1,Arabica
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/121.ts
+#EXTINF:-1,ANN
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/107.ts
+#EXTINF:-1,Al Sharq
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/77.ts
+#EXTINF:-1,Al Nahar Drama
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/79.ts
+#EXTINF:-1,Al Nahar
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/78.ts
+#EXTINF:-1,Al Mayadeen
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/123.ts
+#EXTINF:-1,Al Khabar
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/108.ts
+#EXTINF:-1,TR: Bein Sport 4
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/135.ts
+#EXTINF:-1,TR:Bein Sport 1 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/140.ts
+#EXTINF:-1,TR:Bein Sport 2 SD
+http://144.76.102.19:8000/live/RaeedTv2020RestRUnlimiteD2228/RaeedTv2020RestRUnlimiteD2228/141.ts
+#EXTINF:-1,lh.akamaihd
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,cooking tv
+http://95.170.215.109:80/hls/m3u8/CBC-Sofra-Backup.m3u8
+http://citrusstv.akamaized.net:80/hls/live/687285/CTV/01.m3u8
+http://95.170.215.109:80/hls/SamiraTV-Backup-M.m3u8
+http://95.170.215.107:80/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:-1, ASLAMK TV
+http://livecdnh2.tvanywhere.ae:80/ss/quran.isml/Manifest
+http://livecdnh2.tvanywhere.ae:80/ss/sunnah.isml/Manifest
+http://dmiffthvll.cdn.mangomolo.com:80/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+http://iqraac.cdn.mangomolo.com:80/iqraa/smil:iqraar1.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8
+http://livecdnh3.tvanywhere.ae:80/ss/majd.isml/Manifest
+http://jmc-live.ercdn.net:80/alistiqama/alistiqama_576p.m3u8
+http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
+http://alanis.live.net.sa:1935/live/alanis/chunklist.m3u8
+http://livecdnh3.tvanywhere.ae:80/ss/resalah.isml/Manifest
+#EXTINF:-1,KIDS TV
+http://livecdnh2.tvanywhere.ae:80/hls/mbc3/04.m3u8
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+http://95.170.215.120:80/hls/m3u8/jeem.m3u8
+http://95.170.215.118:80/hls/m3u8/Disney-Channel.m3u8
+http://95.170.215.118:80/hls/m3u8/Disney-Channel.m3u8
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+http://95.170.215.118:80/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
+http://95.170.215.109:80/hls/m3u8/Majid-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/TAHA-Backup.m3u8
+http://livecdnh2.tvanywhere.ae:80/ss/spacetoon.isml/Manifest
+http://95.170.215.118:80/hls/m3u8/Boomerang.m3u8
+http://95.170.215.109:80/hls/m3u8/Karameesh-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/SAT-7-Backup.m3u8
+http://livecdnh1.tvanywhere.ae:80/ss/baby.isml/Manifest
+http://68.235.60.118:1935/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1,MBC TV
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/index.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/02.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc3/02.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/02.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/02.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/02.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/02.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/wanasah/02.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/04.m3u8
+http://95.170.215.118:80/hls/MBC-P-VARity-FF.m3u8
+http://95.170.215.118:80/hls/m3u8/MBC-DRAMA-SS.m3u8
+http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/04.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc1/04.m3u8
+http://95.170.215.118:80/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/04.m3u8
+http://livecdnh2.tvanywhere.ae:80/hls/wanasah/04.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/04.m3u8
+#EXTINF:-1,NWS TV
+http://livecdnh3.tvanywhere.ae:80/ss/alarabiya.isml/Manifest
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+http://mbnhls-lh.akamaihd.net:80/i/MBN_1@118619/master.m3u8
+http://95.170.215.101:80/hls/m3u8/Iraqia-N-Backup.m3u8
+http://95.170.215.107:80/hls/anb-M.m3u8
+#EXTINF:-1,MUOSC TV
+http://95.170.215.109:80/hls/m3u8/Arabica-Backup.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/rotmusic/04.m3u8
+http://livecdnh3.tvanywhere.ae:80/hls/rotclip/04.m3u8
+http://95.170.215.107:80/hls/m3u8/Publitools.m3u8
+http://95.170.215.109:80/hls/m3u8/Mazzika-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/M-Alremas-Backup.m3u8
+http://95.170.215.109:80/hls/M-alhanen-Backup-M.m3u8
+http://wma10.fluidstream.net:80/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+http://84.16.66.103:1935/livecast/tvm3/chunklist_w390924281.m3u8
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+http://81.196.0.126:80/utvedge/utvlive/chunklist_w1063360583.m3u8
+http://wma10.fluidstream.net:80/CompanyTV/_definst_/mp4:livestream_720p/chunklist_w342814350.m3u8
+#EXTINF:-1,MOVIES TV
+http://aldirect.hls.huya.com:80/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+http://161.0.157.9:80/PLTV/88888888/224/3221226834/03.m3u8
+http://95.170.215.118:80/hls/m3u8/HBO.m3u8
+http://95.170.215.118:80/hls/m3u8/HBO-2.m3u8
+http://95.170.215.118:80/hls/m3u8/HBO-3.m3u8
+http://dlhls.cdn.zhanqi.tv:80/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1,SPORT TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,goraftV
+http://livecdnh2.tvanywhere.ae:80/ss/nat_geo_auh.isml/Manifest
+http://livecdnh1.tvanywhere.ae:80/ss/nat_geo.isml/Manifest
+http://livecdnh1.tvanywhere.ae:80/ss/nat_geo_wild.isml/Manifest
+http://livecdnh1.tvanywhere.ae:80/ss/nat_geo_people.isml/Manifest
+http://38.96.148.35:1935/live/omantv04/chunklist_w1649130586.m3u8
+http://95.170.215.118:80/hls/m3u8/Discovery-Channe.m3u8
+http://95.170.215.118:80/hls/m3u8/Discovery-Showca.m3u8
+http://95.170.215.118:80/hls/m3u8/Fishing-And-Hunt.m3u8
+http://82.137.248.16:1935/SEdu/stream13102019/chunklist.m3u8
+http://livecdnh2.tvanywhere.ae:80/ss/nat_geo_auh.isml/Manifest
+#EXTINF:-1,EGYPT
+http://livecdnh2.tvanywhere.ae:80/ss/kahera_nas.isml/Manifest
+http://livecdnh2.tvanywhere.ae:80/ss/hayat.isml/Manifest
+http://95.170.215.107:80/hls/Alhayat-M-Backup.m3u8
+http://livecdnh1.tvanywhere.ae:80/ss/dmcdrama.isml/Manifest
+http://95.170.215.109:80/hls/m3u8/CairoCine-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/Cairo-Dra-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/CBC-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/CBC-Sofra-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/Pan-Drama-Backup.m3u8
+http://95.170.215.109:80/hls/m3u8/Panorama2-Backup.m3u8
+http://95.170.215.107:80/hls/m3u8/Pano-Food-Backup.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
